@@ -1,0 +1,31 @@
+#search_div {
+  float: left;
+}
+#search {
+  cursor: pointer;
+  width: 40px;
+  margin-top: 10px;
+  height: 33px;
+}
+#search_box {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+#query {
+  height: 28px;
+  float: left;
+  margin-top: 10px;
+  width: 400px;
+  margin-left: 35%;
+}
+#googleImg {
+  margin-left: 40%;
+}
+#searchResult {
+  margin-top: 20px;
+  margin-left: 30%;
+}
+h1 {
+  clear: both;
+}
